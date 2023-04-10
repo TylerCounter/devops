@@ -1,1 +1,3 @@
 hocam dersi cok iyi anlattınız emeginize saglık. 
+
+Fork islemini tammaladim ve projenin clonunu local bilgisayarima aldım.
